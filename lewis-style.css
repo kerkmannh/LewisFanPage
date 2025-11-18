@@ -4,7 +4,8 @@ Body{
     text-decoration-color: whitesmoke;
 }
 p{
-   text-decoration-color: whitesmoke; 
+    font-size: 16px;
+    color: whitesmoke;
 }
 h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -49,4 +50,5 @@ a:hover, a:active {
     color: rgb(0, 0, 0);
     text-decoration: underline;
 }
+
 
